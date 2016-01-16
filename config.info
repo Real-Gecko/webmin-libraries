@@ -1,0 +1,3 @@
+cdn_url=URL of CDN to deliver libraries
+source=Libraries source for all modules(local installation will require root permissions),1,1-Remote,0-Local
+install_path=Installation path for local libraries source(must be accessible from outside)

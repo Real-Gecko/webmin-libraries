@@ -1,0 +1,7 @@
+desc=Libraries
+os_support=*-linux
+name=Libraries
+longdesc=Support module for developers and administrators, created to manage various libraries
+version=0.1.0
+webmin=1
+category=others
